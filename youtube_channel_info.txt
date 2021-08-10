@@ -1,8 +1,11 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-TV Canção Nova ao vivo | Brazil | https://mytuner.global.ssl.fastly.net/media/tvos_radios/xt93vwsybjjp.png |
+TV Canção Nova Brazil | Brazil | https://mytuner.global.ssl.fastly.net/media/tvos_radios/xt93vwsybjjp.png |
 https://www.youtube.com/channel/UCVrKQMmA2ew9LFzeIDaOFgw/live
+
+TV Canção Nova Portugal | Portugal | https://cdn.shopify.com/s/files/1/0685/0849/products/Guad_grande.png |
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
 
 Santuário de Fátima | Portugal | https://www.fatima.pt/img/upload/maio/medium/2018-05-12_Monograma_1.jpg |
 https://www.youtube.com/channel/UCOAjX8pc2fY1S5AqsXvZywg/live
@@ -22,5 +25,4 @@ https://www.youtube.com/channel/UCBU9ashv2fwdVyiCom64oGA/live
 TV Lourdes | France | https://www.tv-direct.fr/assets/logo/chaines/tv-lourdes.jpg |
 https://www.youtube.com/channel/UC7zlbnNCnuAPiC3goKcFgUg/live
 
-Basílica de Guadalupe A.R | Mexico | https://cdn.shopify.com/s/files/1/0685/0849/products/Guad_grande.png |
-https://www.youtube.com/channel/UC258M0tmktGb6jTsSuZMAFA/live
+
