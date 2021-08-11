@@ -42,7 +42,8 @@ jobs:
           
           pwd
           chmod +x autorun.sh
-          ./autorun.sh
+          cd scripts
+          python3 youtube_m3ugrabber.py > ../youtube.m3u
         
       - name: git add
         run: |
