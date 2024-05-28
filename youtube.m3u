@@ -12,13 +12,13 @@
 
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/xt93vwsybjjp.png" tvg-id="", TV Canção Nova Brazil
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716873339/ei/GxRVZoCMHNq3kucP1reH6As/ip/20.84.127.96/id/HPeOcSfDrKo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4W8SbX-6FNcfiqabCvl8qvSiha2I-ielo8dUmfcYO20w86QCqDu6aBjtsA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAO_ag23oI7ybk3RzWzPgfxNFB1HilXQ4b-vH1yHijEgsAiBff-D4rNC6yFmJFSyygmMEijGXhdQoqc38DpT8ysjW8Q%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716880012/ei/LC5VZtGOA9PRlu8P2fK1-As/ip/172.183.107.192/id/HPeOcSfDrKo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOhtkSru1p_f56CpVv6X9yLm5DUwvjOCVMTf9hvewv5_AiEA8IVI5Ib1mtTeiVTWTRZRx3TI5XgVmcIzqFRNdBDZ55E%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://www.fatima.pt/img/upload/maio/medium/2018-05-12_Monograma_1.jpg" tvg-id="", Santuário de Fátima
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716880012/ei/LC5VZtKKKq-O2_gP59maqAc/ip/172.183.107.192/id/WkhCfPPgqWc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPjxl4IgieGtV5MgzgJ0D0U1MnpwaO6IFyrW2c8mRTr5AiAdWYOlcWoiR3PeJNII4eGb_vzAbReghff7C96Q4eGL0Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="https://www.a12.com/source/files/originals/logo-15-anos-200px-998013.svg" tvg-id="", TV Aparecida - AO VIVO
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716880013/ei/LS5VZu3CCqmClu8P8ZOJmAI/ip/172.183.107.192/id/ha-Ag0lQmN0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgfORiLbceFBHdvcLw0v-AJQiF5keG2UIgvq4oyMif9CQCIQC3hiE3j7OFKVZi3L6kROnsT7K5iLTVAcWJmu_6TXvYZw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="https://canaismax.com/img/canais/assistir-rede-vida-ao-vivo.jpg" tvg-id="", REDEVIDA AO VIVO 24 Horas
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="https://i.pinimg.com/236x/63/cc/50/63cc500d24ab52f9ea05619ad78ae3c0--laser-twitter.jpg" tvg-id="", ADORAÇÃO AO SANTÍSSIMO SACRAMENTO AO VIVO
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716880015/ei/Ly5VZs3TL-_Rlu8PwYeo0Ac/ip/172.183.107.192/id/ajVm1-btaYU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgGNCOVtDP6Nl1ALOPTBJ0Qw-eREL6NbARlkHPX9VP320CIQCKx79d7zGslCXMcDY7S4Hth9etsmI2nVWSl0ihJTHs4w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="France" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/tv-lourdes.jpg" tvg-id="", TV Lourdes
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716880016/ei/MC5VZsnZMez0ir4Prqao-Aw/ip/172.183.107.192/id/smCojiGkYeg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJVTkLA4TlEosvYkb2Rz4Sz2Pdo8co35XMdc02BTXLyYAiBYTecWOrEhjOEq8ydWnEu5oJ5vaeB_BhAfTLIyNUTp5Q%3D%3D/file/index.m3u8
